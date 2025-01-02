@@ -23,9 +23,11 @@
     "@nestjs/common": "^10.0.0",
     "@nestjs/core": "^10.0.0",
     "@nestjs/platform-express": "^10.0.0",
+    "@types/tesseract.js": "^2.0.0",
     "reflect-metadata": "^0.2.0",
     "rxjs": "^7.8.1",
     "selenium-webdriver": "^4.27.0",
+    "tesseract.js": "^5.1.1",
     "winston": "^3.17.0"
   },
   "devDependencies": {
